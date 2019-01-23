@@ -2,6 +2,7 @@ What could be useful?
 1. Analysis of changepoints
 2. Multivariate divergence metrics
 
+Papers
 1. Bayesian changepoint detection technique (univariate)
 [paper](https://arxiv.org/abs/0710.3742)
 [code](https://github.com/hildensia/bayesian_changepoint_detection)
