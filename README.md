@@ -11,6 +11,8 @@ Papers
 [paper](https://arxiv.org/pdf/1306.4933)
 [code](https://github.com/chdhr-harshal/nonparametric-changepoint-detection)
 
+2.5  e-Distance metric from Szekely and Rizzo, 2005 [paper]
+
 3. Changepoint detection (non bayesian multivariate)
 [paper](https://arxiv.org/pdf/1801.00826.pdf)
 [code](https://github.com/deepcharles/ruptures)
