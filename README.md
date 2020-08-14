@@ -13,6 +13,6 @@ Papers
 
 2.5  e-Distance metric from Szekely and Rizzo, 2005 [paper]
 
-3. Changepoint detection (non bayesian multivariate)
+3. Changepoint detection (linear/non-bayesian multivariate)
 [paper](https://arxiv.org/pdf/1801.00826.pdf)
 [code](https://github.com/deepcharles/ruptures)
